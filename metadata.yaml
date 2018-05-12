@@ -1,0 +1,34 @@
+_repo: Indian-Linguistic-Families-Of-America-North-Of-MexicoGovernment-Printing-Office-Washington-18__17286
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Powell, John Wesley
+    aliases:
+    - Powell, Wes
+    - Powell, J. W. (John Wesley)
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '7040'
+    url: http://www.gutenberg.org/2009/agents/7040
+    wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Powell
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2005-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Languages'
+- !lcsh 'Indians of North America -- Languages -- Bibliography'
+- !lcc 'E011'
+title: "Indian Linguistic Families of America, North of Mexico\r\nSeventh Annual Report\
+  \ of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1885-1886,\
+  \ Government Printing Office, Washington, 1891, pages 1-142"
+url: http://www.gutenberg.org/ebooks/17286
